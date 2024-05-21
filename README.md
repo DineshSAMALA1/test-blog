@@ -1,2 +1,2 @@
 # test-blog
-test repo
+test repo for git commands demonstration
